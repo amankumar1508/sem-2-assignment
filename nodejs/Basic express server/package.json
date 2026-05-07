@@ -1,0 +1,16 @@
+{
+  "name": "basic-express-server",
+  "version": "1.0.0",
+  "description": "A small Node.js project that runs a basic Express server and responds with `server running` on the root route.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
